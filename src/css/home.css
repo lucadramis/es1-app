@@ -1,0 +1,20 @@
+#logo1 {
+    position: relative;
+    margin: 50px 0px 50px 50%;
+    
+    width: 100px;
+}
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: justify;
+    padding: 80px;
+    color: rgb(155, 251, 126);
+}
+h3 {
+    background: cadetblue;
+    color: aliceblue;
+    margin:35px;
+}
+#page {
+    background: grey;
+}
